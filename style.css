@@ -74,7 +74,7 @@
       padding-left: 1rem;
     text-align: center;
       height:1.5rem;  
-      color:rgb(228,121,34);
+      color:var(--accent-color);
       font-family: Arial, Helvetica, sans-serif;
       font-weight:bolder; 
      
@@ -82,7 +82,8 @@
   }
   .duration span{
     background-color: rgb(255, 218, 11);
-    border: 2px solid  rgb(228, 121, 34);
+    border: 2px solid  rgb(230, 196, 8);
+    box-shadow:0px -1px 6px 0px rgb(230, 196, 8);
     border-radius: 5%;
   }
 

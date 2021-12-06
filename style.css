@@ -72,8 +72,7 @@
   }
   .duration{
       padding-left: 1rem;
-      margin-left:5.9em; 
-      
+    text-align: center;
       height:1.5rem;  
       color:rgb(228,121,34);
       font-family: Arial, Helvetica, sans-serif;

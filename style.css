@@ -40,7 +40,9 @@
      max-width:300px; 
      border-radius: 8px;
      transition:400ms ease-in-out; 
-     transform:scale(1); 
+     transform:scale(1);
+     margin-bottom: 1em; 
+    
   }
 
   .price-header{

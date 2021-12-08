@@ -7,6 +7,8 @@ The intention was to build price-comparison page which renders like this
 
 Learnt many new things along the way of building this!
 
-I believe that I have succeeded in this challenge 
+I believe that I have succeeded in this challenge because of this report from lighthouse
+![image](https://user-images.githubusercontent.com/79957651/144860015-9760f149-ad86-4420-9f55-165246243ae7.png)
+
 
 Live at :  https://shivarapolu01.github.io/Price-Comparison-Page/
